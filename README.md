@@ -111,7 +111,8 @@ students-mental-health-analysis/
 ### 😰 Acculturative Stress vs Depression  
 ![Stress vs Depression](images/step6_stress_vs_depression.png)  
 
-## 🚀 How to Run This Project
+<h2><a class="anchor" id="how to run this project"></a>🚀 How to run this project</h2>
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/students-mental-health-analysis.git
