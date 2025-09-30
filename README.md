@@ -114,30 +114,29 @@ students-mental-health-analysis/
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
-1. Clone repository:
+## 🚀 How to Run This Project
+1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/students-mental-health-analysis.git
-
-2. Place dataset in /data/.
-
+```
+2. Place dataset in `/data/`.
 
 3. Run notebooks:
+- `notebooks/mental_health_eda.ipynb`
+- `notebooks/regression_analysis.ipynb`
 
-notebooks/mental_health_eda.ipynb
+---
 
-notebooks/regression_analysis.ipynb
-
-<h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
+## 📌 Final Recommendations
 - Strengthen community-building programs for international students.
-
 - Offer stress management workshops early in study programs.
-
 - Prioritize first-year support systems.
-
 - Continuously monitor and evaluate student well-being.
 
-<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+---
 
-**Farhat-Ul-Ain**
+## 👤 Author & Contact
+**Farhat-Ul-Ain**  
 📧 Email: farhatulainakmal@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/farhat-ul-ain-akmall-6a1b89374/) 
+🔗 [LinkedIn](https://www.linkedin.com/in/farhat-ul-ain-akmall-6a1b89374/)
+
