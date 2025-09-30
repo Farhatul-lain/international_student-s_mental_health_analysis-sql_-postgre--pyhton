@@ -111,9 +111,6 @@ students-mental-health-analysis/
 ### 😰 Acculturative Stress vs Depression  
 ![Stress vs Depression](images/step6_stress_vs_depression.png)  
 
-
-<h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
-
 ## 🚀 How to Run This Project
 1. Clone the repository:
 ```bash
